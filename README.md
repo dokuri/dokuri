@@ -48,7 +48,7 @@
 
 ### 🚀 Who I Am
 
-I'm **Dokuri Shilesh Reddy**, a developer interested in building practical applications using **Python, Data Analytics, Machine Learning and Full-Stack Development**.
+I'm **Dokuri Shilish Reddy**, a developer interested in building practical applications using **Python, Data Analytics, Machine Learning and Full-Stack Development**.
 
 * 🐍 Python Development
 * 📊 Data Analytics
